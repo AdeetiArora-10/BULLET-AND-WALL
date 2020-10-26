@@ -35,8 +35,8 @@ function draw() {
     if(deformation<10){
        bullet.shapeColor="green";
     }
-  }
      else if(deformation>10){
        bullet.shapeColor="red";
      }
     }
+}
